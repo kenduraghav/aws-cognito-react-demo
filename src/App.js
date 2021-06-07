@@ -1,4 +1,3 @@
-import './App.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import LanguageList from './LanguageList'
 import React from 'react';
